@@ -1,0 +1,39 @@
+.social-container {
+   
+    padding: 25px 50px;
+    color:black;
+  }
+  a.social {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+  }
+  a.social:hover {
+    transform: translateY(-2px);
+  }
+  a.youtube {
+    color: #eb3223;
+  }
+  
+  a.facebook {
+    color: #4968ad;
+  }
+  
+  a.twitter {
+    color: #0b7dda;
+  }
+  
+  a.instagram {
+    color: rgb(185, 42, 42);
+  }
+
+  .contact{
+   
+    margin-left: 20px;
+    font-size: large;
+    color:white;
+    padding: 20px;
+    background-color:black;
+    border-radius: 5px;
+     padding:10px;
+    }
